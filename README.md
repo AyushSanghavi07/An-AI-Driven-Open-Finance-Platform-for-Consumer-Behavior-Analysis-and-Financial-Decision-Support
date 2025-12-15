@@ -91,6 +91,65 @@ Each AI-driven module provides:
 | Version Control | Git & GitHub |
 
 ---
+## 📦 Required Libraries & Dependencies
+
+This project is built using **Python** and requires the following libraries to run successfully.
+
+All dependencies can be installed using the provided `requirements.txt` file.
+
+---
+
+### 🔹 Core Application & UI
+| Library | Purpose |
+|------|-------|
+| streamlit | Web-based dashboard and user interface |
+| pandas | Data manipulation and tabular data handling |
+| numpy | Numerical computations and simulations |
+| plotly | Interactive charts and visual analytics |
+| matplotlib | Supporting visualizations (optional) |
+| seaborn | Statistical visualizations (optional) |
+
+---
+
+### 🔹 Machine Learning & Analytics
+| Library | Purpose |
+|------|-------|
+| scikit-learn | ML models (prediction, clustering, evaluation) |
+| joblib | Model loading and persistence |
+
+---
+
+### 🔹 AI & Natural Language Processing
+| Library | Purpose |
+|------|-------|
+| google-generativeai | Gemini API for AI explanations and insights |
+| speechrecognition | Voice input for AI assistant |
+| pyttsx3 | Text-to-speech for AI responses |
+
+---
+
+### 🔹 External Data & Feeds
+| Library | Purpose |
+|------|-------|
+| feedparser | Fetching real-time news via RSS feeds |
+
+---
+
+### 🔹 Document Processing (Optional)
+| Library | Purpose |
+|------|-------|
+| PyPDF2 | Reading PDF files (if enabled) |
+| python-docx | Reading Word documents (if enabled) |
+
+---
+
+## 📥 Installation Instructions
+
+### 1️⃣ Install All Dependencies
+```bash
+pip install -r requirements.txt
+
+
 
 ## 📂 Project Structure
 

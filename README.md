@@ -1,4 +1,4 @@
-# Open-Finance-International-Consumer-Behavior-Analytics
+# An AI-Driven Open Finance Platform for Consumer Behavior Analysis and Financial Decision Support
 
 This README is written at a Master’s / research / portfolio level, aligned with Open Banking, Open Finance, and AI — ideal for:
 
